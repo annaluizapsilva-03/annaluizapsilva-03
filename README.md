@@ -1,16 +1,33 @@
-## Hi there 👋
+# Olá, eu sou Anna Luiza 👋
 
-<!--
-**annaluizapsilva-03/annaluizapsilva-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Software
 
-Here are some ideas to get you started:
+Tenho interesse em desenvolvimento de software, programação e resolução de problemas. Neste perfil compartilho projetos, exercícios e estudos realizados ao longo da graduação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tecnologias
+
+- Python
+
+- Git e GitHub
+
+- Lógica de Programação
+
+- Matemática Discreta
+
+## 📚 Atualmente estudando
+
+- Engenharia de Software
+
+- Algortimos 
+
+- Desenvolvimento Web
+
+## 🚀 Projetos
+
+Aqui você encontrará projetos acadêmicos e pessoais desenvolvidos para aprimorar minhas habilidades em programação e desenvolvimento de software.
+
+## 📫 Contato
+
+- LinkedIn:Anna Luiza Pereira 
+
+- E-mail:annalumodascolonial@gmail.com.
